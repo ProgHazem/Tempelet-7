@@ -1,0 +1,25 @@
+******************************************************************
+========== Simple Site for My site ==============
+
+Template2 using HTML & CSS
+
+==> use HTML.
+
+==> use CSS.
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> use Jquery Bxslider
+
+==> use Jquery MixitUp
+
+==> use Jquery Nicescroll
+
+==> use Google Fonts
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
