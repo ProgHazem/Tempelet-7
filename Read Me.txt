@@ -1,7 +1,7 @@
 ******************************************************************
 ========== Simple Site for My site ==============
 
-Template2 using HTML & CSS
+Template 7
 
 ==> use HTML.
 
